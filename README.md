@@ -8,7 +8,7 @@ None.
 
 ### Usage
 
-Add `#[volume-percentage]` to your `status-right` or `status-left` options in
+Add `#{volume_percentage}` to your `status-right` or `status-left` options in
 Tmux configuration.
 
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
